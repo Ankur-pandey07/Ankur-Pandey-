@@ -1,57 +1,54 @@
-
-<!-- 🔥 ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Ankur%20Pandey&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" />
-
-<!-- 🔥 TYPING ANIMATION -->
+<!-- 🔷 MINIMAL PROFESSIONAL HEADER -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%2B+ML+Enthusiast;DevOps+Learner;Building+Scalable+Systems;React+%7C+Node+%7C+MongoDB" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:020617&height=120&section=header&text=Ankur%20Pandey&fontSize=40&fontColor=38bdf8&animation=fadeIn" />
 </p>
 
-<!-- 🔥 CODING GIF -->
+<!-- 🔷 CLEAN TYPING (NO OVER ANIMATION) -->
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2B+DevOps+Enthusiast;Building+Scalable+Systems" />
 </p>
 
 ---
 
-# 💫 About Me
-- 🎓 BTech CSE Student  
-- 💻 Full Stack Developer  
-- 🤖 AI + DevOps Learner  
-- 🚀 Building real-world projects  
+## 👨‍💻 About Me
+- B.Tech CSE Student  
+- Full Stack Developer  
+- Interested in AI & DevOps  
+- Focused on building scalable systems  
 
 ---
 
-# 🛠️ Tech Stack
+## 🧰 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,mongodb,docker,git,github,java,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,mongodb,docker,git,github,java,tailwind&theme=dark" />
 </p>
 
 ---
 
-# 🚀 Projects
-- 💡 Learnify.AI  
-- 💍 Bandhan Website  
-- ⚙️ DevOps Project  
+## 🚀 Projects
+- **Learnify.AI** – AI-based recommendation system  
+- **Bandhan** – Modern matrimonial platform  
+- **DevOps Project** – CI/CD + Docker deployment  
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ankur-pandey07&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur-pandey07&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ankur-pandey07&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur-pandey07&theme=github-dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Activity
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ankur-pandey07/Ankur-Pandey-/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 👀 Profile Views
+## 🔗 Connect
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ankur-pandey07&label=Profile%20views&color=0e75b6&style=flat" />
+<a href="mailto:pandeyankur9795@gmail.com">Email</a> • 
+<a href="https://linkedin.com/">LinkedIn</a>
 </p>
