@@ -40,9 +40,7 @@
 ---
 
 # 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/Ankur-pandey07/Ankur-pandey07/output/github-contribution-grid-snake.svg" />
-
----
+<img src="https://raw.githubusercontent.com/Ankur-pandey07/Ankur-Pandey-/output/github-contribution-grid-snake.svg" />
 
 # 👀 Profile Views
 <img src="https://komarev.com/ghpvc/?username=Ankur-pandey07&label=Profile%20views&color=0e75b6&style=flat" />
